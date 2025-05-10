@@ -6,5 +6,5 @@
 1. Pandas (pandas - Python Data Analysis Library)
 2. Matplot Library (Matplotlib — Visualization with Python)
 ```
-    pip install pandas matplotlib
+pip install pandas matplotlib
 ```
