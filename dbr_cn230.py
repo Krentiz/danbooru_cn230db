@@ -1,3 +1,5 @@
+# 6610685031 กฤติน ด่านซ้าย
+
 import requests
 import json
 import sqlite3
